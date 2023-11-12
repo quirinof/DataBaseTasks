@@ -1,2 +1,2 @@
 # dataBaseTasks
-Resolução de atividades de Banco de Dados
+Resolução de tarefas de Banco de Dados
